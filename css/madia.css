@@ -1,0 +1,424 @@
+
+@media(max-width: 1362px){
+    .graphic-img {
+    margin-right: -35px;
+}
+}
+
+
+@media(max-width: 1199px){
+    .banner-section h1 {
+    font-size: 37px;
+}
+.banner-section a {
+    font-size: 15px;
+}
+.custom {
+    margin-left: -30px;
+}
+.Coeluso-section h1 {
+    font-size: 33px;
+    margin-bottom: 14px;
+}
+.Coeluso-section p {
+    width: 430px;
+}
+
+.Coeluso-section a {
+    font-size: 14px;
+}
+
+.feture-contant {
+    margin-top: 40px;
+}
+.feture-section h1 {
+    margin-bottom: 5px;
+}
+.feture-contant img {
+    width: 7%;
+}
+.feture-section h2 {
+    font-size: 17px;
+    margin-top: 11px;
+}
+.feture-section p {
+    line-height: 1.7;
+    font-size: 14px;
+}
+.graphic-section img {
+    width: 6%;
+}
+.graphic-section p {
+    width: 450px;
+}
+.graphic-img {
+    margin-right: -28px;
+}
+.graphic-section p {
+    width: 429px;
+}
+.consectetur-section p {
+    width: 617px;
+    font-size: 19px;
+    text-align: center;
+}
+.consectetur-section h3 {
+    font-size: 13px;
+    }
+.discover-section header h1 {
+    font-size: 38px;
+}
+.discover-section header p {
+    font-size: 15px;
+    margin-bottom: -100px;
+}
+.discover-section img {
+    margin-bottom: -58px;
+}
+}
+
+@media(max-width: 991px){
+   .custom {
+    margin-left: -38px;
+}
+.Coeluso-section h1 {
+    font-size: 25px;
+}
+.Coeluso-section p {
+    width: 331px;
+}
+.feture-section h1 {
+    margin-bottom: 40px;
+    font-size: 39px;
+}
+.feture-section h2 {
+    font-size: 30px;
+    margin-top: 18px;
+}
+.feture-section p {
+    line-height: 1.6;
+    font-size: 26px;
+    margin-top: 13px;
+}
+.graphic-section .row {
+    height: 69vh;
+    align-items: center;
+}
+.graphic-section p {
+    width: 317px;
+}
+.consectetur-section p {
+
+    width: 100%;
+    font-size: 17px;
+}
+.consectetur-section h3 {
+    font-size: 9px;
+    }
+    .discover-section header p {
+    font-size: 13px;
+    width: 420px;
+}
+.discover-section a {
+    font-size: 14px;
+}
+footer .nav li {
+    font-size: 14px;
+}
+footer p {
+    font-size: 12px;
+}
+}
+
+@media(max-width: 767px){
+    .banner-section .row {
+    height: 50vh;
+}
+   .banner-section h1 {
+    font-size: 28px;
+}
+.banner-section p {
+    font-size: 13px;
+    margin-bottom: -3px;
+}
+.banner-section a {
+    font-size: 14px;
+    margin-top: 20px;
+}
+.custom {
+    width: 105%;
+}
+.Coeluso-section h1 {
+    font-size: 18px;
+}
+.Coeluso-section p {
+    width: 243px;
+    margin-bottom: 34px;
+}
+
+.feture-section h1 {
+    margin-bottom: 40px;
+    font-size: 34px;
+}
+.feture-contant img {
+    width: 6%;
+}
+.feture-section h2 {
+    font-size: 25px;
+    margin-top: 18px;
+}
+.feture-section p {
+    line-height: 1.6;
+    font-size: 20px;
+    margin-top: 13px;
+}
+.graphic-section h2 {
+    font-size: 19px;
+    margin: 19px 0;
+}
+.graphic-section p {
+    width: 240px;
+        font-size: 14px;
+}
+.consectetur-section .row {
+    height: 56vh;
+}
+.consectetur-section p {
+    font-size: 15px;
+}
+.consectetur-section img {
+    margin-right: 3px;
+    width: 29px;
+}
+.consectetur-section h3 {
+    font-size: 6px;
+}
+.consectetur-section .img-custom {
+    margin-top: 54px;
+    }
+    .discover-section header {
+    margin-bottom: 25px;
+}
+.discover-section header h1 {
+    font-size: 30px;
+}
+.discover-section header p {
+    font-size: 12px;
+    width: 420px;
+}
+.btn-custom {
+    margin-top: -17px;
+}
+.discover-section a {
+    font-size: 13px;
+}
+.discover-section header h1 {
+    font-size: 26px;
+}
+.btn-custom {
+    margin-top: 0px;
+}
+.discover-section a {
+    font-size: 12px;
+}
+footer .nav li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    font-weight: 600;
+    font-size: 10px;
+}
+footer p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 7px;
+}
+}
+@media(max-width: 585px){
+    .graphic-img {
+    margin-right: -23px;
+}
+.graphic-section p {
+    width: 220px;
+    font-size: 14px;
+}
+}
+@media(max-width: 575px){
+      .banner-section h1 {
+    font-size: 24px;
+}
+.banner-section p {
+    font-size: 10px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.banner-section a {
+    font-size: 12px;
+    margin-top: 9px;
+}
+.Coeluso-section p {
+    width: 175px;
+    font-size: 12px;
+} 
+.custom {
+    width: 115%;
+}
+.Coeluso-section h1 {
+    font-size: 13px;
+}
+.Coeluso-section p {
+    width: 175px;
+    margin-bottom: 28px;
+    font-size: 12px;
+}
+.Coeluso-section a {
+    font-size: 9px;
+}
+.feture-section h1 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.feture-section h2 {
+    font-size: 22px;
+}
+.feture-section p {
+    font-size: 18px;
+}
+.graphic-section h2 {
+    font-size: 14px;
+    margin: 15px 0;
+}
+.graphic-section p {
+    width: 181px;
+    font-size: 13px;
+}
+.graphic-img {
+    margin-right: -14px;
+}
+.consectetur-section .row {
+    height: 60vh;
+}
+.consectetur-section p {
+    margin: 0 auto;
+    font-size: 12px;
+}
+.consectetur-section img {
+    width: 21px;
+}
+.consectetur-item {
+    margin-top: 18px;
+}
+.discover-section header p {
+    font-size: 12px;
+    width: 388px;
+    margin-bottom: -72px;
+    margin-top: 10px;
+}
+.btn-custom {
+    margin-top: 7px;
+}
+.discover-section a {
+    padding: 6px 8px;
+}
+footer .nav li {
+    margin-right: 10px;
+    font-size: 8px;
+}
+footer p {
+    font-size: 6px;
+}
+}
+
+
+@media(max-width: 420px){
+    .banner-section .row {
+    height: 38vh;
+}
+  .banner-section h1 {
+    font-size: 17px;
+}
+.banner-section p {
+    font-size: 6px;
+}
+.banner-section a {
+    font-size: 7px;
+    padding: 4px 10px;
+}
+.custom {
+    width: 132%;
+}
+.custom {
+    width: 132%;
+}
+.Coeluso-section h1 {
+    font-size: 9px;
+}
+.Coeluso-section p {
+    width: 123px;
+   margin-bottom: 14px;
+    font-size: 8px;
+}
+.feture-section h1 {
+    margin-bottom: 3px;
+    font-size: 18px;
+}
+.feture-section h2 {
+    font-size: 19px;
+    font-weight: 400;
+}
+.feture-section p {
+    font-size: 14px;
+}
+.graphic-section .row {
+    height: 60vh;
+    align-items: center;
+}
+.graphic-section h2 {
+    font-size: 9px;
+    margin: 13px 0;
+}
+.graphic-section p {
+    width: 120px;
+    font-size: 11px;
+}
+.consectetur-section .row {
+    height: 40vh;
+}
+.consectetur-section p {
+    font-size: 8px;
+}
+.consectetur-section img {
+    margin-right: 3px;
+    width: 17px;
+}
+.consectetur-section h3 {
+    font-size: 4px;
+}
+.consectetur-section .img-custom {
+    margin-top: 16px;
+}
+
+.discover-section header h1 {
+    font-size: 19px;
+    margin-bottom: -6px;
+}
+.discover-section header p {
+    font-size: 8px;
+    width: 280px;
+    margin-bottom: -57px;
+}
+.btn-custom {
+    margin-top: 27px;
+}
+.discover-section a {
+    font-size: 10px;
+    padding: 5px 7px;
+}
+footer .nav li {
+    margin-right: 6px;
+    font-size: 5px;
+}
+footer p {
+    font-size: 4px;
+}
+}

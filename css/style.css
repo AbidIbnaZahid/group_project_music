@@ -1,0 +1,295 @@
+.banner-section{
+    background-color: #081F3E;
+}
+.banner-section img{
+    width: 100px;
+    margin-top: 20px
+}
+.list{
+    float: right;
+}
+.list img{
+width: 18px;
+transition: 0.4s
+}
+.list img:hover{
+    transform: scale(1.1);
+}
+.banner-section .row{
+    height: 60vh;
+    text-align: center;
+    }
+.banner-section h1{
+    color: #fff;
+}
+.banner-section span{
+    color: #1b4b90;
+}
+.banner-section p{
+    color: #1b4b90;
+}
+.banner-section a{
+    color: #fff;
+    border: 1px solid #1b4b90;
+    border-radius: 30px;
+    margin-top: 22px;
+    transition: 0.4s;
+
+}
+.banner-section a:hover{
+    color: #ffffff;
+    background-color: #0158d4;
+}
+.warstwa-section{
+    background-image: url(../images/smart_object.png);
+    background-size: 100% 58%;
+    background-repeat: no-repeat;
+    background-color: #081F3E;
+    background-position: center;
+}
+.warstwa-section .row{}
+.warstwa-section img{
+    transition: 0.4s;
+}
+.warstwa-section img:hover{
+    transform: scale(1.1);
+}
+.Coeluso-section{
+    background: #081F3E;
+    padding: 50px 0;
+}
+.Coeluso-section img{
+    transition: 0.4s;
+}
+.Coeluso-section img:hover{
+    transform: scale(1.1);
+}
+.Coeluso-section h1{
+    color: #fff;
+    /* margin-top: 375px; */
+}
+.custom{
+        width: 91%;
+        margin-left: -120px;
+}
+.container-custom1{}
+.Coeluso-section span{
+    color: #1b4b90;
+}
+.Coeluso-section p{
+    color: #495A76;
+    text-align: justify;
+    margin-bottom: 48px;
+        width: 523px;
+}
+.Coeluso-section a{
+    color: #fff;
+    border: 1px solid #1b4b90;
+    border-radius: 30px;
+    margin-top: 22px;
+    transition: 0.4s;
+    padding: 6px 21px;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+.Coeluso-section a:hover{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #0158d4;
+}
+
+.feture-section{
+    background: #081F3E;
+    padding: 50px 0;
+}
+.feture-section .row{}
+.feture-section h1{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.feture-section span{
+    color: #1b4b90;
+}
+.feture-contant{
+    margin-top: 53px;
+    background-color: transparent;
+    padding: 20px;
+    transition: 0.4s;
+
+}
+.feture-contant:hover {
+    background-color: #071831;
+    padding: 20px;
+}
+.feture-contant img{
+    width: 7%;
+}
+.img-custm{
+    transition: 0.4s;
+}
+.img-custm:hover{
+    opacity: 0.5
+}
+.feture-section h2{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 12px;
+}
+.feture-section p{
+    color: #495A76;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+.graphic-section{
+    background: #06152A;
+}
+.graphic-section .row{
+    
+    height: 80vh;
+    align-items: center;}
+.graphic-section img{
+    width: 7%;
+}
+.graphic-custom{
+    /* margin-left: 127px; */
+}
+.graphic-section h2{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 25px  0;
+}
+.graphic-section p{
+    color: #495A76;
+    text-align: justify;
+    width: 512px;
+}
+.graphic-img{
+    margin-right: -118px;
+    transition: 0.4s
+}
+.graphic-custom{
+    background-color: transparent;
+    padding: 10px;
+}
+.graphic-custom:hover{
+    background-color: #081f3e;
+    padding: 10px;
+}
+.graphic-img:hover{
+    opacity: 0.5;
+}
+
+.consectetur-section{
+    background: url(../images/lawyer-11.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #061324;
+}
+.consectetur-section .row{
+    height: 70vh;
+}
+.consectetur-section p{
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+    color: #66778e;
+    margin-bottom: 28px;
+}
+.consectetur-section img{margin-right: 10px;}
+.consectetur-section h3{
+    font-size: 16px;
+    color: #00bcd433;
+    display: contents;
+}
+.consectetur-item{
+    width: 32%;
+    margin: auto;
+}
+.consectetur-section .img-custom{
+    margin-top: 66px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.consectetur-section span{
+    color: #fff;
+}
+
+
+.discover-section{
+    background: #040811;
+    padding: 50px 0;
+    padding-bottom: 77px;
+}
+.discover-section header{
+    text-align: center;
+    margin-bottom: -35px;
+}
+.discover-section header h1{
+    color: #ffff;
+}
+.discover-section header p{
+    width: 525px;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #ffffff9c;
+}
+.discover-section .row{}
+.discover-section img{
+    transition: 0.4s;
+}
+/*.discover-section img:hover{
+    opacity: 0.5;
+
+}*/
+.discover-section a{
+    text-transform: capitalize;
+    color: #fff;
+    border: 1px solid #007bff;
+    padding: 7px 10px;
+    border-radius: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.btn-custom{
+    width: 100%;
+    text-align: center;
+    margin-top: -35px;
+}
+.discover-section a:hover{
+    text-decoration: none;
+    background: #0158D4;
+}
+
+footer{
+    background: #010103;
+    border-top: 1px solid #1d1a1a;
+}
+footer .row{}
+footer .nav{}
+footer .nav li{
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-weight: 500;
+}
+footer .nav li a{color: #1b4b90;
+transition: 0.4s;
+}
+footer .nav li a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+footer p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #1b4b90;
+    font-size: 13px;
+    text-align: end;
+}
